@@ -1,4 +1,4 @@
 <?php
-echo 'truc';
+echo 'trac';
 echo 'bidule';
 ?>
